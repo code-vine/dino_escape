@@ -5,6 +5,8 @@ Don't let him catch you!
 Jump with the up-arrow to avoid crates.
 Grab food to move slightly farther away from the dino catcher.
 
+Link to page: https://code-croc.github.io/dino_escape/
+
 Needs SFX and Music
 
 Credits To:
