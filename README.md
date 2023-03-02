@@ -6,7 +6,7 @@ Jump with the up-arrow to avoid crates.<br>
 Grab food to move slightly farther away from the dino catcher.<br>
 Not the Best coding practices but easy for beginners<p>
 
-Link to page: https://code-croc.github.io/dino_escape/
+Link to page: https://code-vine.github.io/dino_escape/
 
 Needs SFX and Music
 
